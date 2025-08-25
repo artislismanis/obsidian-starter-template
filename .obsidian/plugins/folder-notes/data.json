@@ -62,11 +62,9 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "path",
   "supportedFileTypes": [
-    "md",
-    "canvas",
-    "base"
+    "md"
   ],
   "boldName": false,
   "boldNameInPath": false,
@@ -112,7 +110,7 @@
   "hideCollapsingIconForEmptyFolders": false,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
-  "deleteFilesAction": "trash",
+  "deleteFilesAction": "obsidianTrash",
   "openSidebar": {
     "mobile": false,
     "desktop": true
