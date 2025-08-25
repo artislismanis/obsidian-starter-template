@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Atlas/0-Atlas.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0-Atlas"
+              "title": "README"
             }
           }
         ]
@@ -97,17 +97,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
+      "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": true,
+      "templater-obsidian:Templater": true,
+      "homepage:Open homepage": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
       "periodic-notes:Open today": false
     }
   },
   "active": "6e1c68db2318d6ee",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
+    "Z-Config/Z-Config.md",
+    "4-Archive/4-Archive.md",
+    "3-Reference/3-Reference.md",
+    "2-Zettels/2-Zettels.md",
+    "2-Areas/2-Areas.md",
+    "1-Efforts/1-Efforts.md",
+    "0-Journal/0-Journal.md",
+    "0-Atlas/0-Atlas.md",
+    "@Inbox/@Inbox.md",
     "Z-Config/Templates/Journal/Template - Monthly Note.md",
     "Z-Config/Templates/Journal/Template - Meeting.md",
     "Z-Config/Templates/Journal/Template - Journal Folder.md",
@@ -126,24 +137,12 @@
     "0-Journal/2025/2025-08/2025-08-27/2025-08-27.md",
     "0-Journal/2025/2025-08/2025-08.md",
     "0-Journal/2025/2025-08/2025-08-11/2025-08-11.md",
-    "0-Journal/2025/2025-08/2025-08-12/2025-08-12.md",
     "0-Journal/2025/2025-08/2025-08-12",
     "0-Journal/2025/2025-08/2025-08-11",
-    "0-Journal/2025/2025-08/2025-08-26/2025-08-26.md",
     "0-Journal/2025/2025-08/2025-08-27",
     "0-Journal/2025/2025-08/2025-08-26",
     "0-Journal/2025/2025-08/2025-08-25",
     "0-Journal/2025/2025-08",
-    "0-Journal/2025",
-    "Z-Config/Z-Config.md",
-    "Z-Config/Templates/Journal/Template - Yearly Note.md",
-    "Z-Config/Templates/Journal/Template - Weekly Note.md",
-    "Z-Config/Templates/Journal/Template - Quarterly Note.md",
-    "0-Atlas/0-Atlas.md",
-    "README.md",
-    "4-Archive/4-Archive.md",
-    "3-Reference/3-Reference.md",
-    "2-Zettels/2-Zettels.md",
-    "Untitled.canvas"
+    "0-Journal/2025"
   ]
 }
