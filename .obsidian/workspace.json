@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -113,19 +112,22 @@
     "2-Zettels/2-Zettels.md",
     "2-Areas/2-Areas.md",
     "1-Efforts/1-Efforts.md",
-    "Z-Config/Z-Config.md",
     "0-Journal/0-Journal.md",
     "0-Atlas/0-Atlas.md",
     "@Inbox/@Inbox.md",
+    "Z-Config/Z-Config.md",
     "README.md",
+    "Z-Config/Scripts",
+    "Z-Config/New folder",
+    "Z-Config/Templates/Content/Template - Content.md",
+    "Z-Config/Templates/Content",
+    "Z-Config/Templates",
+    "Untitled.canvas",
     "Z-Config",
     "4-Archive",
     "3-Reference",
     "2-Zettels",
     "2-Areas",
-    "1-Efforts",
-    "0-Journal",
-    "0-Atlas",
-    "@Inbox"
+    "1-Efforts"
   ]
 }
