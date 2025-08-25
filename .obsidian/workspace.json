@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Config/Z-Config.md",
+                "file": "0-Atlas/0-Atlas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Z-Config"
+              "title": "0-Atlas"
             }
           }
         ]
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53493506f60c0959",
@@ -93,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -107,6 +109,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "Z-Config/Z-Config.md",
     "4-Archive/4-Archive.md",
     "3-Reference/3-Reference.md",
     "2-Zettels/2-Zettels.md",
@@ -115,8 +119,6 @@
     "0-Journal/0-Journal.md",
     "0-Atlas/0-Atlas.md",
     "@Inbox/@Inbox.md",
-    "Z-Config/Z-Config.md",
-    "README.md",
     "Z-Config/Scripts",
     "Z-Config/New folder",
     "Z-Config/Templates/Content/Template - Content.md",
