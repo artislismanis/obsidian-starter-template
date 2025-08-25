@@ -1,1 +1,10 @@
-{}
+{
+  "strictLineBreaks": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "showInlineTitle": false
+}
