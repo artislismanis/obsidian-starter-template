@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Z-Config/Z-Config.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Z-Config"
             }
           }
         ]
@@ -108,6 +108,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md"
+    "4-Archive/4-Archive.md",
+    "3-Reference/3-Reference.md",
+    "2-Zettels/2-Zettels.md",
+    "2-Areas/2-Areas.md",
+    "1-Efforts/1-Efforts.md",
+    "Z-Config/Z-Config.md",
+    "0-Journal/0-Journal.md",
+    "0-Atlas/0-Atlas.md",
+    "@Inbox/@Inbox.md",
+    "README.md",
+    "Z-Config",
+    "4-Archive",
+    "3-Reference",
+    "2-Zettels",
+    "2-Areas",
+    "1-Efforts",
+    "0-Journal",
+    "0-Atlas",
+    "@Inbox"
   ]
 }
