@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0e7807dc0980d134",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "590077ff05545a38",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6e11ec77b8a5e22b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +106,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e11ec77b8a5e22b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "README.md"
   ]
