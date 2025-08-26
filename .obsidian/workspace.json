@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7bb2f0d9bde77a89",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6e1c68db2318d6ee",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -106,43 +102,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e1c68db2318d6ee",
+  "active": "79f8c188cac30821",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md",
-    "Z-Config/Z-Config.md",
-    "4-Archive/4-Archive.md",
-    "3-Reference/3-Reference.md",
-    "2-Zettels/2-Zettels.md",
-    "2-Areas/2-Areas.md",
-    "1-Efforts/1-Efforts.md",
-    "0-Journal/0-Journal.md",
-    "0-Atlas/0-Atlas.md",
-    "@Inbox/@Inbox.md",
-    "Z-Config/Templates/Journal/Template - Monthly Note.md",
-    "Z-Config/Templates/Journal/Template - Meeting.md",
-    "Z-Config/Templates/Journal/Template - Journal Folder.md",
-    "Z-Config/Templates/Journal/Template - Daily Note.md",
-    "0-Journal/2026/2026-01/2026-01-05/2026-01-05.md",
-    "0-Journal/2025/2025.md",
-    "0-Journal/2025/2025-08/2025-08-25/2025-08-25.md",
-    "0-Journal/2026/2026-01/2026-01-05",
-    "0-Journal/2026/2026-01",
-    "0-Journal/2026",
-    "0-Journal/2025/2025-08/2025-W35.md",
-    "0-Journal/2025/2025-08/2025-W34.md",
-    "0-Journal/2025/2025-08/2025-W33.md",
+    "0-Journal/2025/2025-09/2025-09.md",
     "0-Journal/2025/2025-Q3.md",
-    "0-Journal/2025/2025-Q4.md",
-    "0-Journal/2025/2025-08/2025-08-27/2025-08-27.md",
-    "0-Journal/2025/2025-08/2025-08.md",
-    "0-Journal/2025/2025-08/2025-08-11/2025-08-11.md",
-    "0-Journal/2025/2025-08/2025-08-12",
-    "0-Journal/2025/2025-08/2025-08-11",
-    "0-Journal/2025/2025-08/2025-08-27",
+    "0-Journal/2025/2025-09",
+    "0-Journal/2025/2025-08/2025-08-26/2025-08-26.md",
+    "Z-Config/Templates/@Meeting.md",
+    "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - AL1.md",
+    "Z-Config/Templates/Journal/Template - Meeting.md",
+    "Z-Config/Templates/Journal/Template - Monthly Note.md",
+    "Z-Config/Templates/Journal/Template - Journal Folder.md",
+    "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - AL.md",
     "0-Journal/2025/2025-08/2025-08-26",
-    "0-Journal/2025/2025-08/2025-08-25",
     "0-Journal/2025/2025-08",
-    "0-Journal/2025"
+    "0-Journal/2025",
+    "Z-Config/Templates/Journal/Template - Daily Note.md",
+    "Untitled.md",
+    "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - test 2.md",
+    "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - Test.md",
+    "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - Another one.md",
+    "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - test 3.md",
+    "0-Atlas/0-Atlas.md",
+    "2-Areas/2-Areas.md",
+    "0 - Journal/2025/2025-08/2025-08-26/2025-08-26.md",
+    "0 - Journal/2025/2025-08/2025-08-26",
+    "0 - Journal/2025/2025-08",
+    "0 - Journal/2025",
+    "0 - Journal",
+    "Z-Config/Templates/@Contact.md",
+    "0-Journal/2025/2025-08/2025-08-25/2025-08-25 - asdfaf.md",
+    "0-Journal/2025/2025-08/2025-08-25/2025-08-25 - asdf.md",
+    "0-Journal/2025/2025-08/2025-08-25/2025-08-25 - asfddsaf.md",
+    "0-Journal/2025/2025-08/2025-08-25/2025-08-25 - sdafas.md",
+    "0-Journal/2025/2025-08/2025-08-25/2025-08-25 - Test 1.md",
+    "0-Journal/2025/2025-08/2025-W35.md",
+    "0-Journal/2025/2025-08/2025-08-25/2025-08-25.md",
+    "0-Journal/2025/2025-08/2025-08-25",
+    "YYYY/YYYY-MM/YYYY-MM-DD/YYYY-MM-DD/2025/2025-08/2025-08-25",
+    "Untitled.canvas"
   ]
 }

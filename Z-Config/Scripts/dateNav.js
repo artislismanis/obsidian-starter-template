@@ -1,6 +1,5 @@
 // Script relies on Periodc Notes (PN) plugin, expects it to be configured
-const pn = app?.plugins?.plugins?.['periodic-notes']?.settings;
-if (!pn) throw new Error("Periodic Notes plugin settings not found.");
+const pn = app.plugins.plugins['periodic-notes'].settings;
 
 // Supported date hierarchy levels
 const LEVELS = ['years', 'quarters', 'months', 'weeks', 'days'];
