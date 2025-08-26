@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "4fd0e3fa3fd9d1c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "93fd7d9ba206cfde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Z-Config/Templates/Journal/Template - Daily Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Template - Daily Note"
             }
           }
         ]
@@ -102,8 +107,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "93fd7d9ba206cfde",
   "lastOpenFiles": [
+    "0-Journal/0-Journal.md",
+    "1-Efforts/1-Efforts.md",
+    "2-Areas/2-Areas.md",
+    "0-Atlas/0-Atlas.md",
+    "Z-Config/Templates/Entity/Template - CRM - Team.md",
+    "Z-Config/Templates/Entity/Template - CRM - Publisher.md",
+    "Z-Config/Templates/Entity/Template - CRM - Organisation.md",
+    "Z-Config/Templates/Entity/Template - CRM - Individual.md",
+    "Z-Config/Templates/Entity/Template - CRM - Author.md",
+    "Z-Config/Templates/Content/Template - Content.md",
     "3-Reference/@Creators/Publishers/HBR.md",
     "3-Reference/@Creators/Authors/Lismanis, Artis.md",
     "3-Reference/@Creators/@Creators.md",
@@ -111,11 +126,9 @@
     "3-Reference/@Creators/Publishers",
     "3-Reference/@Creators/Authors",
     "3-Reference/@Creators",
-    "0-Journal/0-Journal.md",
     "Z-Config/Templates/@Meeting.md",
     "Z-Config/Templates/@CRM.md",
     "Z-Config/Templates/@Contact.md",
-    "Z-Config/Templates/Entity/Template - CRM - Individual.md",
     "2-Areas/@Contacts/Organisations/Lismanis.md",
     "2-Areas/@Contacts/Individuals/Lismanis, Artis.md",
     "2-Areas/@Contacts/Organisations",
@@ -125,10 +138,6 @@
     "2-Areas/@Contacts/Individuals/Lismanis, A.md",
     "2-Areas/@Contacts",
     "Z-Config/Scripts/capitalise.js",
-    "Z-Config/Templates/Entity/Template - CRM - Publisher.md",
-    "Z-Config/Templates/Entity/Template - CRM - Author.md",
-    "Z-Config/Templates/Entity/Template - CRM - Team.md",
-    "Z-Config/Templates/Entity/Template - CRM - Organisation.md",
     "Z-Config/Templates/Entity",
     "Untitled.md",
     "0-Journal/2025/2025-09/2025-09.md",
@@ -136,10 +145,6 @@
     "0-Journal/2025/2025-09",
     "0-Journal/2025/2025-08/2025-08-26/2025-08-26.md",
     "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - AL1.md",
-    "Z-Config/Templates/Journal/Template - Meeting.md",
-    "Z-Config/Templates/Journal/Template - Monthly Note.md",
-    "Z-Config/Templates/Journal/Template - Journal Folder.md",
-    "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - AL.md",
     "Untitled.canvas"
   ]
 }
