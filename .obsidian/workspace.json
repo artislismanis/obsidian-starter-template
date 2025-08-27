@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "129f6342d11e2620",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d9203ba9abdf3a86",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Z-Config/Templates/Journal/Template - Daily Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Template - Daily Note"
             }
           }
         ]
@@ -102,41 +107,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79f8c188cac30821",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "0-Journal/2025/2025-08/2025-08-27/2025-08-27 - Important Meet.md",
     "0-Journal/2025/2025-08/2025-08-27/2025-08-27.md",
-    "0-Journal/0-Journal.md",
+    "Z-Config/Templates/Journal/Template - Daily Note.md",
     "0-Journal/2025/2025-08/2025-08-27",
     "0-Journal/2025/2025-08",
     "0-Journal/2025",
-    "Z-Config/Templates/Journal/Template - Daily Note.md",
-    "0-Journal/2025/2025-08/2025-08-27/2025-08-27 - Tech SMT.md",
+    "Z-Config/Templates/Journal/Template - Daily Reflection.md",
+    "Z-Config/Templates/Journal/Template - Meeting.md",
+    "@Inbox/@Inbox.md",
+    "Z-Config/Templates/@CRM.md",
     "Z-Config/Z-Config.md",
+    "4-Archive/4-Archive.md",
+    "3-Reference/3-Reference.md",
+    "2-Zettels/2-Zettels.md",
+    "2-Areas/2-Areas.md",
+    "1-Efforts/1-Efforts.md",
+    "0-Journal/0-Journal.md",
     "0-Atlas/0-Atlas.md",
+    "0-Journal/2025/2025-08/2025-08-27/2025-08-27 - Important Meet.md",
+    "0-Journal/2025/2025-08/2025-08-27/2025-08-27 - Tech SMT.md",
     "README.md",
     "0-Journal/2025/2025-08/2025-08-26/2025-08-26.md",
     "3-Reference/Quotes.md",
     "0-Journal/2025/2025-08/2025-08-26",
     "3-Reference/Inspirations.md",
-    "Z-Config/Templates/Journal/Template - Meeting.md",
     "0-Journal/2025/2025-08/2025-08-26/2025-08-26 - Test Meeting.md",
-    "1-Efforts/1-Efforts.md",
-    "2-Areas/2-Areas.md",
     "Z-Config/Templates/Entity/Template - CRM - Team.md",
     "Z-Config/Templates/Entity/Template - CRM - Publisher.md",
     "Z-Config/Templates/Entity/Template - CRM - Organisation.md",
     "Z-Config/Templates/Entity/Template - CRM - Individual.md",
-    "Z-Config/Templates/Entity/Template - CRM - Author.md",
-    "Z-Config/Templates/Content/Template - Content.md",
-    "3-Reference/@Creators/Publishers/HBR.md",
-    "3-Reference/@Creators/Authors/Lismanis, Artis.md",
-    "3-Reference/@Creators/@Creators.md",
-    "2-Areas/@Contacts/@Contacts.md",
     "3-Reference/@Creators/Publishers",
     "3-Reference/@Creators/Authors",
     "3-Reference/@Creators",
-    "Z-Config/Templates/@Meeting.md",
     "2-Areas/@Contacts/Organisations",
     "2-Areas/@Contacts/Individuals",
     "2-Areas/@Contacts/Teams",

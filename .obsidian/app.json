@@ -2,10 +2,14 @@
   "strictLineBreaks": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileFolderPath": "@Inbox",
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "useTab": false
 }

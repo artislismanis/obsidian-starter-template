@@ -30,13 +30,16 @@ What do I need to do today to move towards my weekly goals?
 A scratch pad for thoughts, notes, reminders. 
 
 
-## Daily Reflection
 
-- What went well?
-- What didn’t go so well?
-- What have I learned?
-- What still puzzles me?
-- Update **Summary** field for the day
+
+
+```button
+name Daily Relflection
+type append template
+action Journal/Template - Daily Reflection
+remove true
+templater true
+```
 
 ## Today's Meetings
 
