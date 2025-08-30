@@ -28,10 +28,11 @@ What do I need to do today to move towards my weekly goals?
 
 ## Notes
 A scratch pad for thoughts, notes, reminders. 
+    
 
 
-
-
+## Daily Reflection
+How was your day?
 
 ```button
 name Daily Relflection
