@@ -981,14 +981,36 @@ var getButtonFromStore = async (app, args) => {
 };
 var getButtonById = async (app, id) => {
   const store = getStore(app.isMobile);
-  const storedButton = store.filter((item) => `button-${id}` === item.id)[0];
-  if (storedButton) {
-    const file = app.vault.getAbstractFileByPath(storedButton.path);
+  const readArgsByBlockId = async (blockId) => {
+    const btn = (store || []).find((item) => `button-${blockId}` === item.id);
+    if (!btn)
+      return void 0;
+    const file = app.vault.getAbstractFileByPath(btn.path);
     const content = await app.vault.cachedRead(file);
     const contentArray = content.split("\n");
-    const button = contentArray.slice(storedButton.position.start.line + 1, storedButton.position.end.line).join("\n");
+    const button = contentArray.slice(btn.position.start.line + 1, btn.position.end.line).join("\n");
     return createArgumentObject(button);
-  }
+  };
+  const resolveInheritedArgs = async (startId, visited = new Set(), depth = 0) => {
+    if (depth > 3)
+      return void 0;
+    if (visited.has(startId))
+      return void 0;
+    visited.add(startId);
+    const childArgs = await readArgsByBlockId(startId);
+    if (!childArgs)
+      return void 0;
+    const parentId = typeof childArgs.id === "string" ? childArgs.id.trim() : "";
+    if (!parentId)
+      return childArgs;
+    const parentArgs = await resolveInheritedArgs(parentId, visited, depth + 1);
+    if (!parentArgs)
+      return childArgs;
+    return { ...parentArgs, ...childArgs };
+  };
+  const merged = await resolveInheritedArgs(id);
+  if (merged)
+    return merged;
 };
 var getButtonSwapById = async (app, id) => {
   const store = getStore(app.isMobile);
