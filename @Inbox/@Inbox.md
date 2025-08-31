@@ -16,3 +16,19 @@ aliases:
 summary: This is where all inbound information needing review and processing goes
 ---
 # @Inbox
+
+`button-quick-note` `button-log` `button-task`
+
+
+## Notes to process
+```dataview
+TABLE WITHOUT ID   
+link(file.link) AS "File",
+summary AS "Description" 
+FROM -"Z-Config"  
+WHERE contains(file.folder, this.file.folder)
+AND file.name != this.file.name
+SORT link(file.link) asc
+LIMIT 10
+```
+
