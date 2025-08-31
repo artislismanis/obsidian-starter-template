@@ -4,7 +4,7 @@
       "id": "be625c44-11de-407f-a44c-069ad70035e3",
       "name": "📓 Quick Note",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Z-Config/Templates/Content/Template - Content.md",
       "fileNameFormat": {
         "enabled": true,
@@ -34,7 +34,7 @@
       "id": "7cd8b806-52ef-40c0-b93e-bded3e096f07",
       "name": "⚒️ Task",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "0-Journal/{{DATE:YYYY}}/{{DATE:YYYY-MM}}/{{DATE:YYYY-MM-DD}}/{{DATE:YYYY-MM-DD}}",
       "captureToActiveFile": false,
@@ -69,7 +69,7 @@
       "id": "4e331793-72ba-41be-b1b1-137fe192b87f",
       "name": "📃 Log",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "0-Journal/{{DATE:YYYY}}/{{DATE:YYYY-MM}}/{{DATE:YYYY-MM-DD}}/{{DATE:YYYY-MM-DD}}",
       "captureToActiveFile": false,
@@ -104,7 +104,7 @@
       "id": "2a852c67-c67b-40aa-9da4-f57eadb9ca02",
       "name": "📆 Meeting",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Z-Config/Templates/Journal/Template - Meeting.md",
       "fileNameFormat": {
         "enabled": true,
@@ -134,7 +134,7 @@
       "id": "cdb27bfe-a9e1-4b9c-ad3e-85c176472434",
       "name": "👥 CRM",
       "type": "Multi",
-      "command": false,
+      "command": true,
       "choices": [
         {
           "id": "c3f59e47-ab1c-40ab-93b0-22fcf0411c23",

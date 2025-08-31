@@ -1,4 +1,7 @@
 {
   "accentColor": "#515c6b",
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }
